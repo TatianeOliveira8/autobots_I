@@ -2,11 +2,11 @@
 
 ## Estrutura e funcionalidades
 
-O AutoBots é um sistema de micro-serviços voltado para gerenciamento de clientes, documentos, telefones e endereços de lojas de manutenção veicular e vendas de autopeças.  
+O AutoBots é um sistema de micro-serviços voltado para gerenciamento de clientes, documentos, telefones e endereço de lojas de manutenção veicular e vendas de autopeças.  
 
 Funcionalidades principais:  
 - CRUD de clientes.  
-- CRUD de documentos, telefones e endereços vinculados aos clientes.  
+- CRUD de documentos, telefones e endereços para os clientes.  
 - Estrutura de micro-serviços seguindo princípios **SOLID**.
 
 ---
