@@ -7,7 +7,7 @@ O AutoBots é um sistema voltado para gerenciamento de clientes, documentos, tel
 Funcionalidades principais:  
 - CRUD de clientes.  
 - CRUD de documentos, telefones e endereços para os clientes.  
-- Estrutura de micro-serviços seguindo princípios **SOLID**.
+- Estrutura seguindo princípios **SOLID**.
 
 ---
 
